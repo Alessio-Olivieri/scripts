@@ -2,4 +2,4 @@
 
 module load spack
 module load python@3.12
-source ~/mscccl-tools-swing/.venv/bin/activate
+source ~/msccl-tools-swing/.venv/bin/activate
